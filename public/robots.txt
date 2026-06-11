@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://happy-bite-boutique.lovable.app/sitemap.xml
